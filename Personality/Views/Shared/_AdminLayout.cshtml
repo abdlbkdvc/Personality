@@ -1,0 +1,18 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+@await Html.PartialAsync("~/Views/AdminLayout/PartialHead.cshtml")
+
+<body>
+
+    @RenderBody()
+
+    @await Html.PartialAsync("~/Views/AdminLayout/PartialScript.cshtml")
+
+</body>
+
+</html>

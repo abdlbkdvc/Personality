@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Personality
+build_property.RootNamespace = Personality
+build_property.ProjectDir = C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Abdulbaki Deveci\Personality\Personality\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Abdulbaki Deveci\Personality\Personality
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/AdminLayout/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcUGFydGlhbEhlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/AdminLayout/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcUGFydGlhbFNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/AdminProcess/AboutAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9jZXNzXEFib3V0QWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/AdminProcess/AboutDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9jZXNzXEFib3V0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/AdminProcess/AboutList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9jZXNzXEFib3V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Faruk/AddFaruk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFydWtcQWRkRmFydWsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Faruk/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFydWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/PersonLayout/PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uTGF5b3V0XFBhcnRpYWxGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/PersonLayout/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uTGF5b3V0XFBhcnRpYWxIZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/PersonLayout/PartialNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uTGF5b3V0XFBhcnRpYWxOYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/PersonLayout/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uTGF5b3V0XFBhcnRpYWxTY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Components/AboutList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Components/ExperienceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXhwZXJpZW5jZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Components/PortfolioList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9ydGZvbGlvTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Components/ServiceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Components/SkillList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2tpbGxMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Components/TestimonialList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/_PersonLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QZXJzb25MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Abdulbaki Deveci/Personality/Personality/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v941577q1s

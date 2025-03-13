@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "AboutAdd";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Person
+<div class="container">
+    <h1 class="mt-3">Hakkımda Ekleme Sayfası</h1>
+    @using (Html.BeginForm("AboutAdd", "AdminProcess", FormMethod.Post))
+    {
+        <br />
+        @Html.Label("İsminiz")
+        <br />
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+        <br />
+        @Html.Label("Meslek")
+        <br />
+        @Html.TextBoxFor(x => x.JobTitle, new { @class = "form-control" })
+        <br />
+        @Html.Label("LinkedIn Link")
+        <br />
+        @Html.TextBoxFor(x => x.LinkedInUrl, new { @class = "form-control" })
+        <br />
+        @Html.Label("Github Link")
+        <br />
+        @Html.TextBoxFor(x => x.GithubUrl, new { @class = "form-control" })
+        <br />
+        @Html.Label("X Link")
+        <br />
+        @Html.TextBoxFor(x => x.XUrl, new { @class = "form-control" })
+        <br />
+        @Html.Label("Hakkında Açıklama")
+        <br />
+        @Html.TextAreaFor(x => x.SelfDescription, 10, 3, new { @class = "form-control" })
+        <br />
+        @Html.Label("Yaş")
+        <br />
+        @Html.TextBoxFor(x => x.Age, new { @class = "form-control" })
+        <br />
+        @Html.Label("Cinsiyet")
+        <br />
+        @Html.TextBoxFor(x => x.Gender, new { @class = "form-control" })
+        <br />
+        @Html.Label("Şehir")
+        <br />
+        @Html.TextBoxFor(x => x.City, new { @class = "form-control" })
+        <br />
+        @Html.Label("Ülke")
+        <br />
+        @Html.TextBoxFor(x => x.Country, new { @class = "form-control" })
+        <button type="submit" class="btn btn-primary">Ekle</button>
+    }
+</div>

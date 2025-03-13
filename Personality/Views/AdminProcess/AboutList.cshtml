@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "AboutList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model Person
+
+
+
+@using (Html.BeginForm("AboutDelete", "AdminProcess", FormMethod.Post))
+{
+    <br />
+    @Html.Label("ID")
+    @Html.TextBoxFor(x => x.Id)
+    <br />
+    <br />
+    @Html.Label("İsim")
+    @Html.TextBoxFor(x => x.Name)
+    <br />
+    <br />
+    @Html.Label("Meslek")
+    @Html.TextBoxFor(x => x.JobTitle)
+    <br />
+    <br />
+    @Html.Label("LinkedIn Link")
+    @Html.TextBoxFor(x => x.LinkedInUrl)
+    <br />
+    <br />
+    @Html.Label("Github Link")
+    @Html.TextBoxFor(x => x.GithubUrl)
+    <br />
+    <br />
+    @Html.Label("X Link")
+    @Html.TextBoxFor(x => x.XUrl)
+    <br />
+}

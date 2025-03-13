@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "AddFaruk";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Faruk
+
+@using (Html.BeginForm("AddFaruk", "Faruk", FormMethod.Post))
+{
+    @Html.Label("Adı")
+    @Html.TextBoxFor(x => x.Name)
+    <br />
+    @Html.Label("Açıklama")
+    @Html.TextBoxFor(x => x.Description)
+    <br />
+    <button type="submit" class="btn btn-primary">Ekle</button>
+}

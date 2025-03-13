@@ -1,0 +1,16 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!-- upto 2 directory depth-->
+<html lang="en-US">
+@await Html.PartialAsync("~/Views/PersonLayout/PartialHead.cshtml")
+<body id="top">
+    @await Html.PartialAsync("~/Views/PersonLayout/PartialNavbar.cshtml")
+    @RenderBody()
+    @await Html.PartialAsync("~/Views/PersonLayout/PartialFooter.cshtml")
+    <div id="scrolltop"><a class="btn btn-secondary" href="#top"><span class="icon"><i class="fas fa-angle-up fa-x"></i></span></a></div>
+    @await Html.PartialAsync("~/Views/PersonLayout/PartialScript.cshtml")
+</body>
+</html>
